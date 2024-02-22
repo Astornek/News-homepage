@@ -6,4 +6,4 @@ Screenshot
 ![Screenshot](/assets//images/screenshoot.png)
 
 Screenshot2
-![Screenshot](/assets//images/screenshoot2.png)
+![Screenshot](/assets//images/sceenshoot2.png)
